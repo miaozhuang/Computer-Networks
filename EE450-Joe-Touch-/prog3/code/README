@@ -1,0 +1,7 @@
+Please using MACOS and Ubuntu OS to run the server and client. 
+
+Using sh './client.sh' to run the client code.
+
+Using sh './server.sh' to run the server code.
+
+The code has been tested on java 1.7 and java 1.8 platform.
